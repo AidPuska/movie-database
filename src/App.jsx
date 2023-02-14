@@ -1,9 +1,10 @@
+import Home from "./pages/Home"
 
 function App() {
 
   return (
     <div className="App">
-      <p>Movie-Database</p>
+      <Home />
     </div>
   )
 }
